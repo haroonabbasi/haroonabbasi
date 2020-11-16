@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **haroonabbasi/haroonabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge)
+
+#### I'm a Principle Software Engineer/Full-Stack Developer.
+
+- 🏢 I'm currently working at **Mobilelive**. 
+- 💻 Technologies using these days: `javascript`, `java`, `node`, `mysql`
+- 🌱 Learning all about **Open Source**
+- ✍ I write tech articles on **Medium**
+- 🎓 I've studied computer science at IUB University. 
+- 💬 Ping me about `node`, `javascript`, `angular`
+- 📫 Reach me: [haroonabbasi.github.com](https://haroonabbasi.github.com)
+- ⚡ Most exacty about: learning about new open source libraries, new technologies and working with them.
