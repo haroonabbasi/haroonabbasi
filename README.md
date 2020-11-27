@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 🎓 I've studied computer science at IUB University. 
 - 💬 Ping me about `node`, `javascript`, `angular`
 - 📫 Reach me: [haroonabbasi.github.com](https://haroonabbasi.github.com)
-- ⚡ Most exacty about: learning about new open source libraries, new technologies and working with them.
+- ⚡ Most excited about: learning about new open source libraries, new technologies and working with them.
