@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 #### I'm a Principle Software Engineer/Full-Stack Developer.
 
-- 🏢 I'm currently working at **Mobilelive**. 
-- 💻 Technologies using these days: `javascript`, `java`, `node`, `mysql`
+- 🏢 I'm currently working at **Mobilelive.ca**. 
+- 💻 Technologies using these days: `javascript`, `java`, `node`
 - 🌱 Learning all about **Open Source**
 - ✍ I write tech articles on **Medium**
 - 🎓 I've studied computer science at IUB University. 
