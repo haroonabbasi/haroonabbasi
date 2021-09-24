@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge)
 
-#### I'm a Principle Software Engineer/Full-Stack Developer.
+#### I'm a Solutions Architect.
 
 - 🏢 I'm currently working at **Mobilelive.ca**. 
 - 💻 Technologies using these days: `javascript`, `java`, `node`
