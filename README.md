@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - 💬 Ping me about `node`, `javascript`, `angular`
 - 📫 Reach me: [haroonabbasi.github.com](https://haroonabbasi.github.com)
 - ⚡ Most excited about: learning about new open source libraries, new technologies and working with them.
+
+
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=haroonabbasi&show_icons=true) -->
