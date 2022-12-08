@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge) -->
 
 #### I'm a Solutions Architect.
 
