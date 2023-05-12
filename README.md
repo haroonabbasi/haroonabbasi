@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge) -->
 
-#### I'm a Solutions Architect with 12+ years of experince in the industry. Always eager to learn somethng, currently working on [LaterX](https://github.com/haroonabbasi/LaterX)
+#### I'm a Solutions Architect with 12+ years of experince in the industry. Always eager to learn something, currently working on [LaterX](https://github.com/haroonabbasi/LaterX) to learn more about Rust language
 
 - 💻 Technologies using these days: `javascript`, `java`, `node`
 - 🌱 Learning all about **Open Source**
