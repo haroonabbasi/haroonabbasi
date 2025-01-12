@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=haroonabbasi.visitor-badge) -->
 
-#### I'm a Solutions Architect with 12+ years of experince in the industry. Always eager to learn something, currently working on [LaterX](https://github.com/haroonabbasi/LaterX) to learn more about Rust language
+#### I'm a Solutions Architect with 13+ years of experince in the industry. Always eager to learn something, Currently busy doing something with Automation
 
 - 💻 Technologies using these days: `javascript`, `java`, `node`
 - 🌱 Learning all about **Open Source**
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 I've studied computer science at IUB University. 
 - 💬 Ping me about `nodejs`, `javascript`, `angular`, `springboot`, `laravel`
 - ⚡ Most excited about: learning about new open source libraries, new technologies and working with them.
-- 📫 If you'd like to discuss any opportunity, feel free to [contact me](mailto:haroonabbasi.ali@gmail.com).
+- 📫 If you'd like to discuss any opportunity or Automation or AI automation, feel free to [contact me](mailto:haroonabbasi.ali@gmail.com).
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=haroonabbasi&show_icons=true) -->
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=haroonabbasi)](https://github.com/LordDashMe/github-contribution-stats/) -->
