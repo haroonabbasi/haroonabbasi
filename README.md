@@ -15,7 +15,7 @@
 - 🎓 **Studied computer science** at IUB University
 - 💬 **Ping me about**: `nodejs`, `javascript`, `angular`, `springboot`, `laravel`, `automation`
 - ⚡ **Most excited about**: learning about new open source libraries, new technologies and working with them
-- 📫 **Reach me**: [Via Email](mailto:haroonabbasi.ali@gmail.com) for opportunities or Automation/AI automation discussions
+- 📫 **Reach me**: [Via Email](mailto:haroonabbasi.ali@gmail.com) [Via Github](https://github.com/haroonabbasi/haroonabbasi/issues) for opportunities or Automation/AI automation discussions
 
 ### 🛠️ Tech Stack
 
