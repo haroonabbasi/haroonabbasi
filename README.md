@@ -37,6 +37,7 @@
 
 I’m **Haroon Abbasi**, a **Solutions Architect & Full‑Stack Engineer (13+ years)** passionate about  **Automation • AI‑Driven Engineering • System Design • Open‑Source Tooling**.
 
+![](https://komarev.com/ghpvc/?username=haroonabbasi&color=red)
 
 <!-- 5.  Two-column super-power grid -->
 <table width="100%">
