@@ -5,7 +5,7 @@
 
 <div align="center">
 <!-- 1.  Typing-headline SVG (auto-typed text, no JS) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F20519&background=0E141900&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B;I%E2%80%99m+Haroon+Abbasi;Solutions+Architect+%7C+Full-Stack+Engineer;Automation+%2B+RPA+Specialist;13%2B+years+building+automation-first+tools" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F20519&background=0E141900&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B;I%E2%80%99m+Haroon+Abbasi;Solutions+Architect+%7C+Full-Stack+Engineer;" alt="Typing intro"/>
 </div>
 
 <!-- 2.  Neon-dark stat row (your palette) -->
