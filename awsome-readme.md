@@ -1,15 +1,86 @@
+# 🛠️ My Development Portfolio
+*A curated collection of tools and applications I've built*
 
+---
 
-# List of Tools and Application
+## 📅 Timeline Overview
 
+### 🔷 2025
+**3 projects · Active development**
 
-## 2025
+---
 
+### 🧰 EmailToolKit
+*🔗 [GitHub Repository](https://github.com/haroonabbasi/EmailToolKit)*  
+📧 **Category:** Productivity · Email Management  
+🎯 **Purpose:** Unified email management across multiple providers  
+✨ **Features:**  
+- Multi-provider support (Gmail, Outlook, Mock Data)  
+- Advanced search and filtering  
+- Bulk operations (download attachments, export HTML)  
+- Clean, intuitive interface  
 
-### EmailToolKit [link](https://github.com/haroonabbasi/EmailToolKit)
+**🔄 Status:** `Active` | **⭐ Stars:** `Check GitHub` | **📦 Tech Stack:** `List technologies here`
 
-EmailToolKit is a unified email management tool supporting Gmail, Outlook, and Mock Data. It allows users to search, filter, and perform bulk actions like downloading attachments or exporting HTML.
+---
 
-### DupVideoHunter [link](https://github.com/haroonabbasi/DupVideoHunter)
+### 🎬 DupVideoHunter
+*🔗 [GitHub Repository](https://github.com/haroonabbasi/DupVideoHunter)*  
+📁 **Category:** Media · File Management  
+🎯 **Purpose:** Identify and manage duplicate video files  
+✨ **Features:**  
+- Web-based visual interface  
+- Visual similarity comparison  
+- Intelligent duplicate detection  
+- Batch management capabilities  
 
-A web-based interface for analysing, comparing, and managing duplicate video files using visual similarity metrics
+**🔄 Status:** `Active` | **⭐ Stars:** `Check GitHub` | **📦 Tech Stack:** `List technologies here`
+
+---
+
+### 🚢 PortScout
+*🔗 [GitHub Repository](https://github.com/haroonabbasi/PortScout)*  
+🔧 **Category:** Developer Tools · System Utilities  
+🎯 **Purpose:** Comprehensive port management for developers  
+✨ **Features:**  
+- Hybrid Web/Python architecture  
+- Multi-source port scanning (system, Docker, Docker Compose)  
+- Interactive port mapping visualization  
+- Conflict detection and resolution  
+
+**🔄 Status:** `Active` | **⭐ Stars:** `Check GitHub` | **📦 Tech Stack:** `List technologies here`
+
+---
+
+## 📊 Project Statistics
+| Year | Projects | Categories |
+|------|----------|------------|
+| 2025 | 3 | Email, Media, Developer Tools |
+
+---
+
+## 🏷️ Categories
+- **📧 Email Tools** (1)
+- **🎬 Media Management** (1)  
+- **🔧 Developer Utilities** (1)
+
+---
+
+## 📈 Project Status Legend
+- **🔄 Active** – Actively maintained and developed
+- **🛠️ In Progress** – Currently being built
+- **✅ Stable** – Feature complete, maintenance only
+- **💤 Archived** – No longer actively developed
+
+---
+
+## 🎯 How to Use This Portfolio
+1. Browse projects by year or category
+2. Click GitHub links for source code
+3. Check status for maintenance information
+4. Review features to understand capabilities
+
+---
+
+*Last Updated: $(date)*  
+*Total Projects: 3* | *Active Projects: 3*
