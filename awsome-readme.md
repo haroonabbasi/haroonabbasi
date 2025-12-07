@@ -38,8 +38,8 @@
 
 ---
 
-### 🚢 PortScout
-*🔗 [GitHub Repository](https://github.com/haroonabbasi/PortScout)*  
+### 🚢 PortRegistry
+*🔗 [GitHub Repository](https://github.com/haroonabbasi/port-registry)*  
 🔧 **Category:** Developer Tools · System Utilities  
 🎯 **Purpose:** Comprehensive port management for developers  
 ✨ **Features:**  
