@@ -65,7 +65,7 @@ I’m **Haroon Abbasi**, a **Solutions Architect & Full‑Stack Engineer (13+ ye
 
 <!-- 6.  Trophy wall (auto-generated) -->
 <p align="center">
-  <img src="https://github-trophies.vercel.app/api/?username=haroonabbasi&column=4&row=1&theme=gruvbox&no-frame=true&title_color=F20519&text_color=F2F2F2"/>
+  <img src="https://github-trophies.vercel.app/api/?username=haroonabbasi&column=6&row=1&theme=gruvbox&no-frame=true&title_color=F20519&text_color=F2F2F2"/>
 </p>
 
 
